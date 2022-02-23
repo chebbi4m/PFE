@@ -1,0 +1,5 @@
+we used jupyter lab and jupyter notebook to extract the data from the udemy api 
+in 3 ways 
+-extract all
+-extract with search
+-extract with multiple options
