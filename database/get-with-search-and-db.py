@@ -77,4 +77,7 @@ mycollection.insert_many(final_data)
 
 
 
+for i in mycollection.find({"coupons status" : "working"},{"course name":1,"coupon":1,"_id":0}):
+    print(i)
+
 
