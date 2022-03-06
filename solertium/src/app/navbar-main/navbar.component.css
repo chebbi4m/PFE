@@ -1,0 +1,29 @@
+mat-toolbar{
+    background-color: #212162;
+    color: white;
+    position: fixed;
+    z-index: 99;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav-item{
+    font-size: 1.1rem;
+}
+
+.nav-item:hover{
+    color: #D63822;
+    
+}
+
+.spacer{
+    flex: 1 1 auto;
+}
+
+.login-btn:hover{
+    background-color: #D63822;
+    color: white;
+}

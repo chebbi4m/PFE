@@ -1,0 +1,80 @@
+main{
+    text-align: center;
+    padding-top: 8%;
+}
+
+.title{
+    margin-bottom: 5%;
+    font-size: 3rem;
+    text-shadow: 1px 1px 3px;
+}
+
+.slogan{
+    font-size: 4rem;
+    text-shadow: 1px 1px 3px;
+    margin-bottom: 5%;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 0.6fr 1.3fr 0.1fr 1fr 0.7fr;
+    grid-template-rows: repeat(2, 0.5fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+    
+.div1 { 
+    grid-area: 1 / 2 / 3 / 3;
+    background-image: url("../../assets/images/pic-1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    position: relative;
+}
+
+.div2 { 
+    grid-area: 1 / 4 / 2 / 5;
+    background-image: url("../../assets/images/pic-2.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.div3 { 
+    grid-area: 2 / 4 / 3 / 5;
+    background-image: url("../../assets/images/pic-3.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 2rem;
+}
+.box{
+    transition: 0.5s;
+}
+
+.box:hover{
+    transform: scale(1.1);
+    transition: transform 0.5s;
+}
+
+.box-text{
+    position: absolute;
+    bottom: 50%;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+    color: white;
+    font-weight: bold;
+    visibility:hidden;
+    opacity:0;
+    transition:0.5s; 
+
+}
+
+.box:hover .box-text{
+    visibility: visible;
+    opacity:1;
+    transition:0.5s;
+    
+}
