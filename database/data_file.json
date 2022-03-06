@@ -90,7 +90,7 @@
         "visible instructors": "Jonney J Robinson"
     },
     {
-        "coupon": "EFEB2022",
+        "coupon": "EFEB2022X",
         "coupons status": "working",
         "course id": "3094130",
         "course link": "https://www.udemy.com/course/advanced-it-troubleshooting-for-helpdesk-support-technicians/",
@@ -98,16 +98,6 @@
         "course picture": "https://img-c.udemycdn.com/course/480x270/3094130_1787_6.jpg",
         "course price": "$19.99",
         "visible instructors": "John Courtenay"
-    },
-    {
-        "coupon": [],
-        "coupons status": [],
-        "course id": "3662324",
-        "course link": "https://www.udemy.com/course/advance-it-troubleshooting-for-desktop-support-professional/",
-        "course name": "Advance IT Troubleshooting for Desktop Support Professional",
-        "course picture": "https://img-c.udemycdn.com/course/480x270/3662324_8670_2.jpg",
-        "course price": "$49.99",
-        "visible instructors": "Techi WIZ (21,000+Students Enrolled)"
     },
     {
         "coupon": [],
@@ -132,6 +122,16 @@
     {
         "coupon": [],
         "coupons status": [],
+        "course id": "3662324",
+        "course link": "https://www.udemy.com/course/advance-it-troubleshooting-for-desktop-support-professional/",
+        "course name": "Advance IT Troubleshooting for Desktop Support Professional",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/3662324_8670_2.jpg",
+        "course price": "$49.99",
+        "visible instructors": "Techi WIZ (21,000+Students Enrolled)"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
         "course id": "3935176",
         "course link": "https://www.udemy.com/course/helpdesk-pro/",
         "course name": "Learning IT Help Desk for Beginners",
@@ -152,16 +152,6 @@
     {
         "coupon": [],
         "coupons status": [],
-        "course id": "3393648",
-        "course link": "https://www.udemy.com/course/windows-10-troubleshooting-for-it-support-part-i/",
-        "course name": "Windows 10 Troubleshooting For IT Support - Part 1",
-        "course picture": "https://img-c.udemycdn.com/course/480x270/3393648_30b2_4.jpg",
-        "course price": "$19.99",
-        "visible instructors": "Zine Eddine BENDJABALLAH"
-    },
-    {
-        "coupon": [],
-        "coupons status": [],
         "course id": "2433278",
         "course link": "https://www.udemy.com/course/it-basics-for-end-users-and-helpdesk-staff/",
         "course name": "Computer Basics - Windows 7/10 - Desktop IT Support Training",
@@ -178,6 +168,16 @@
         "course picture": "https://img-c.udemycdn.com/course/480x270/3546288_db04.jpg",
         "course price": "$19.99",
         "visible instructors": "John Courtenay"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "3393648",
+        "course link": "https://www.udemy.com/course/windows-10-troubleshooting-for-it-support-part-i/",
+        "course name": "Windows 10 Troubleshooting For IT Support - Part 1",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/3393648_30b2_4.jpg",
+        "course price": "$19.99",
+        "visible instructors": "Zine Eddine BENDJABALLAH"
     },
     {
         "coupon": [],
@@ -220,6 +220,16 @@
         "visible instructors": "Lecturio GmbH"
     },
     {
+        "coupon": "EFB2022X",
+        "coupons status": "working",
+        "course id": "3686292",
+        "course link": "https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/",
+        "course name": "Computer Network Fundamentals- IT Helpdesk & Desktop Support",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/3686292_d2ea.jpg",
+        "course price": "$19.99",
+        "visible instructors": "John Courtenay"
+    },
+    {
         "coupon": [],
         "coupons status": [],
         "course id": "3815424",
@@ -236,16 +246,6 @@
         "course link": "https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp/",
         "course name": "Legacy IT - Technical Support & Desktop Troubleshooting Tips",
         "course picture": "https://img-c.udemycdn.com/course/480x270/3815698_a496.jpg",
-        "course price": "$19.99",
-        "visible instructors": "John Courtenay"
-    },
-    {
-        "coupon": "EFEB2022X",
-        "coupons status": "working",
-        "course id": "3686292",
-        "course link": "https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/",
-        "course name": "Computer Network Fundamentals- IT Helpdesk & Desktop Support",
-        "course picture": "https://img-c.udemycdn.com/course/480x270/3686292_d2ea.jpg",
         "course price": "$19.99",
         "visible instructors": "John Courtenay"
     },
@@ -298,5 +298,205 @@
         "course picture": "https://img-c.udemycdn.com/course/480x270/1889724_c906.jpg",
         "course price": "$49.99",
         "visible instructors": "Danil Dintsis"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "1219332",
+        "course link": "https://www.udemy.com/course/artificial-intelligence-az/",
+        "course name": "Artificial Intelligence A-Z\u2122: Learn How To Build An AI",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/1219332_bdd7.jpg",
+        "course price": "$84.99",
+        "visible instructors": "Jordan Sauchuk"
+    },
+    {
+        "coupon": "EFEB2022X",
+        "coupons status": "working",
+        "course id": "3516814",
+        "course link": "https://www.udemy.com/course/it-support-troubleshooting-tips-for-clinical-environments/",
+        "course name": "Desktop Support / Troubleshooting- Healthcare IT Technicians",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/3516814_d6e7_2.jpg",
+        "course price": "$19.99",
+        "visible instructors": "John Courtenay"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "1643948",
+        "course link": "https://www.udemy.com/course/70-685-enterprise-desktop-support-technician-for-windows-7/",
+        "course name": "70-685 : Enterprise Desktop Support Technician for Windows 7",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/1643948_0195_2.jpg",
+        "course price": "$84.99",
+        "visible instructors": "Integrity Training"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "2261040",
+        "course link": "https://www.udemy.com/course/23-x-ways-your-it-support-company-can-make-more-profit/",
+        "course name": "23 x Ways your IT Support Company Can Make More Profit",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/2261040_b19f.jpg",
+        "course price": "$74.99",
+        "visible instructors": "Jonathan Edwards"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "2813323",
+        "course link": "https://www.udemy.com/course/zendesk-training-for-customer-service-agents/",
+        "course name": "Zendesk for Customer Service Agents Training Course",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/2813323_3974_2.jpg",
+        "course price": "$49.99",
+        "visible instructors": "Nils Rebehn"
+    },
+    {
+        "coupon": "EFEB2022X",
+        "coupons status": "working",
+        "course id": "4082738",
+        "course link": "https://www.udemy.com/course/it-desktop-computer-support-real-world-troubleshooting/",
+        "course name": "IT/Desktop Computer Support- Troubleshooting for Technicians",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/4082738_e4a8_2.jpg",
+        "course price": "$19.99",
+        "visible instructors": "John Courtenay"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "812588",
+        "course link": "https://www.udemy.com/course/jquery-tutorial/",
+        "course name": "The Complete jQuery Course: From Beginner To Advanced!",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/812588_5180_7.jpg",
+        "course price": "$84.99",
+        "visible instructors": "Joe Parys Support"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "2020688",
+        "course link": "https://www.udemy.com/course/support-vector-machines-in-python/",
+        "course name": "Machine Learning and AI: Support Vector Machines in Python",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/2020688_733c_2.jpg",
+        "course price": "$29.99",
+        "visible instructors": "Lazy Programmer Inc."
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "1350150",
+        "course link": "https://www.udemy.com/course/computercavalry-it-helpdesk/",
+        "course name": "ComputerCavalry: IT Help Desk Training for IT Professionals!",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/1350150_535e_7.jpg",
+        "course price": "$34.99",
+        "visible instructors": "Korey Sheppard"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "3148304",
+        "course link": "https://www.udemy.com/course/zendesk-professional-administrator-training/",
+        "course name": "Training for Zendesk Administrators",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/3148304_d7ef.jpg",
+        "course price": "$84.99",
+        "visible instructors": "Nils Rebehn"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "3873056",
+        "course link": "https://www.udemy.com/course/windows-10-troubleshooting-for-it-support-part-ii/",
+        "course name": "Windows 10 Troubleshooting For IT Support - Part 2",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/3873056_c28d_2.jpg",
+        "course price": "$19.99",
+        "visible instructors": "Zine Eddine BENDJABALLAH"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "2181332",
+        "course link": "https://www.udemy.com/course/learning-it-help-desk-basics/",
+        "course name": "Learning IT Help Desk Basics",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/2181332_a591_3.jpg",
+        "course price": "$29.99",
+        "visible instructors": "Zulqarnain Hayat"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "3309572",
+        "course link": "https://www.udemy.com/course/how-to-become-a-computer-technical-support-specialist/",
+        "course name": "How to become a Computer Technical Support Specialist",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/3309572_baa3_4.jpg",
+        "course price": "$34.99",
+        "visible instructors": "Jay and Ray"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "2701468",
+        "course link": "https://www.udemy.com/course/customer-success-build-cross-functional-relationships/",
+        "course name": "Customer Success: Build Cross-Functional Relationships",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/2701468_086a.jpg",
+        "course price": "$99.99",
+        "visible instructors": "Kristen Hayer"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "3627542",
+        "course link": "https://www.udemy.com/course/it-fundamentals-everything-you-need-to-know-about-it/",
+        "course name": "IT Fundamentals - Everything you need to know about IT",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/3627542_1828_3.jpg",
+        "course price": "$84.99",
+        "visible instructors": "Imran Afzal (350,000+ students)"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "2803599",
+        "course link": "https://www.udemy.com/course/it-support-training-for-active-directory/",
+        "course name": "The Complete Active Directory Course | IT Support",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/2803599_9f9a_2.jpg",
+        "course price": "$19.99",
+        "visible instructors": "Duale Adan"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "1401738",
+        "course link": "https://www.udemy.com/course/confident-body-language-master-non-verbal-communication/",
+        "course name": "CONFIDENCE and SELF ESTEEM: Develop Confident Body Language",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/1401738_eca6_3.jpg",
+        "course price": "$84.99",
+        "visible instructors": "Jimmy Naraine Support"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "4030112",
+        "course link": "https://www.udemy.com/course/time-series-analysis/",
+        "course name": "Time Series Analysis, Forecasting, and Machine Learning",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/4030112_7ff2_2.jpg",
+        "course price": "$199.99",
+        "visible instructors": "Lazy Programmer Inc."
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "456460",
+        "course link": "https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/",
+        "course name": "Master Software Testing+Jira+Agile on Live App-Be a TeamLead",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/456460_2b1c_4.jpg",
+        "course price": "$84.99",
+        "visible instructors": "Rahul Shetty"
+    },
+    {
+        "coupon": [],
+        "coupons status": [],
+        "course id": "4503750",
+        "course link": "https://www.udemy.com/course/job-opportunities-in-it-for-technical-and-non-tech-skills/",
+        "course name": "Job Opportunities in IT for Technical and Non-Tech skills",
+        "course picture": "https://img-c.udemycdn.com/course/480x270/4503750_4b80.jpg",
+        "course price": "$49.99",
+        "visible instructors": "Xavier Chelladurai"
     }
 ]
