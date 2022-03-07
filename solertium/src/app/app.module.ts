@@ -21,7 +21,7 @@ import { CoursesSearchComponent } from './courses-search/courses-search.componen
 import {MatFormFieldModule} from '@angular/material/form-field';
 import { CoursesMainComponent } from './courses-main/courses-main.component';
 import { FooterComponent } from './footer/footer.component';
-import { SliderComponent } from './slider/slider.component';
+
 
 
 @NgModule({
@@ -39,7 +39,6 @@ import { SliderComponent } from './slider/slider.component';
     CoursesSearchComponent,
     CoursesMainComponent,
     FooterComponent,
-    SliderComponent,
     
 
 
@@ -53,6 +52,7 @@ import { SliderComponent } from './slider/slider.component';
     MatFormFieldModule,
     MatCardModule
   ],
+  
   providers: [],
   bootstrap: [AppComponent]
 })

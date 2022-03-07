@@ -7,6 +7,7 @@ import { LoginComponent } from './login/login.component';
 import { QuestionsComponent } from './questions/questions.component';
 
 const routes: Routes = [
+  { path : '',redirectTo : 'Home', pathMatch : 'full'},
   { path : 'Home',component : HomeComponent},
   { path : 'Courses',component : CoursesComponent},
   { path : 'Coupons',component : CouponsComponent},
