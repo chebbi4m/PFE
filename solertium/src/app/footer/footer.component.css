@@ -1,0 +1,32 @@
+footer{
+    bottom: 0;
+    margin-top: 50px;
+    background-color: #212162;
+    height: 200px;
+}
+
+.container {  display: grid;
+    grid-template-columns: 1.2fr 1.3fr 0.7fr 0.8fr;
+    grid-template-rows: 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row dense;
+    grid-template-areas:
+      "part1 part2 part3 part4";
+}
+  
+.part1 { 
+    grid-area: part1;
+}
+  
+.part2 {
+    grid-area: part2;
+}
+  
+.part3 {
+    grid-area: part3;
+}
+  
+.part4 {
+    grid-area: part4;
+}
+  

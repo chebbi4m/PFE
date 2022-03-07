@@ -1,0 +1,25 @@
+.text{
+    margin-top: 50px ;
+    margin-left: 50px;
+    font-size: 2rem;
+}
+
+.courses{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 50px;
+    padding: 20px 50px;
+
+}
+
+.example-card{
+    width: 250px;
+    height: auto;
+}
+
+.price{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

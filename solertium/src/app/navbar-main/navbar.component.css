@@ -1,8 +1,9 @@
 mat-toolbar{
     background-color: #212162;
     color: white;
-    position: fixed;
+    /* position: fixed; */
     z-index: 99;
+    margin-bottom: 30px;
 }
 
 a{
